@@ -8,7 +8,7 @@
 
 
 
-string[] FirstArray= new string[4] {"Last", "26", "Task", "10"};
+string[] FirstArray = new string[4] {"Last", "26", "Task", "10"};
 string[] SecondArray = new string[FirstArray.Length];
 FinalArray(FirstArray, SecondArray);
 PrintArray(SecondArray);
